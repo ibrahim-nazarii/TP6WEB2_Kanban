@@ -47,7 +47,7 @@ git branch -M main
 ## 6. Link your local repo to GitHub
 
 ```bash
-git remote add origin git@github.com:ibrahim-nazarii/TP6WEB2_DemoProject.git
+git remote add git@github.com:ibrahim-nazarii/TP6WEB2_Kanban.git
 ```
 
 ---

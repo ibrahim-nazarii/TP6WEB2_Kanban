@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Résidence Les Pins",
+    "location": "Lyon, 69003",
+    "startDate": "2026-01-10",
+    "endDate": "2026-08-30",
+    "status": "En cours",
+    "chefProjet": "Marie Durand",
+    "conducteurTravaux": "Paul Martin",
+    "description": "Construction d'un immeuble résidentiel R+4 avec 24 logements."
+  },
+  {
+    "id": 2,
+    "name": "Pont de la Croix",
+    "location": "Grenoble, 38000",
+    "startDate": "2026-02-01",
+    "endDate": "2026-12-15",
+    "status": "En cours",
+    "chefProjet": "Sophie Bernard",
+    "conducteurTravaux": "Luc Petit",
+    "description": "Rénovation et renforcement d'un pont routier urbain."
+  },
+  {
+    "id": 3,
+    "name": "Entrepôt Logistique Est",
+    "location": "Mâcon, 71000",
+    "startDate": "2026-03-15",
+    "endDate": "2026-11-01",
+    "status": "À démarrer",
+    "chefProjet": "Marie Durand",
+    "conducteurTravaux": "Paul Martin",
+    "description": "Création d'un entrepôt de 5000m² avec bureaux intégrés."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "title": "Terrassement et fondations",
+    "responsible": "Paul Martin",
+    "role": "conducteur de travaux",
+    "deadline": "2026-02-28",
+    "priority": "Haute",
+    "status": "Terminé"
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "title": "Coulage dalle béton RDC",
+    "responsible": "Paul Martin",
+    "role": "conducteur de travaux",
+    "deadline": "2026-03-20",
+    "priority": "Haute",
+    "status": "Terminé"
+  },
+  {
+    "id": 3,
+    "projectId": 1,
+    "title": "Installation réseaux électriques",
+    "responsible": "Marie Durand",
+    "role": "chef de projet",
+    "deadline": "2026-05-01",
+    "priority": "Moyenne",
+    "status": "En cours"
+  },
+  {
+    "id": 4,
+    "projectId": 1,
+    "title": "Pose menuiseries extérieures",
+    "responsible": "Paul Martin",
+    "role": "conducteur de travaux",
+    "deadline": "2026-06-15",
+    "priority": "Moyenne",
+    "status": "À faire"
+  },
+  {
+    "id": 5,
+    "projectId": 1,
+    "title": "Raccordement eau potable",
+    "responsible": "Marie Durand",
+    "role": "chef de projet",
+    "deadline": "2026-04-30",
+    "priority": "Haute",
+    "status": "Bloqué"
+  },
+  {
+    "id": 6,
+    "projectId": 2,
+    "title": "Diagnostic structure existante",
+    "responsible": "Sophie Bernard",
+    "role": "chef de projet",
+    "deadline": "2026-02-20",
+    "priority": "Haute",
+    "status": "Terminé"
+  },
+  {
+    "id": 7,
+    "projectId": 2,
+    "title": "Renforcement piles du pont",
+    "responsible": "Luc Petit",
+    "role": "conducteur de travaux",
+    "deadline": "2026-05-30",
+    "priority": "Haute",
+    "status": "En cours"
+  },
+  {
+    "id": 8,
+    "projectId": 2,
+    "title": "Reprise chaussée et marquage",
+    "responsible": "Luc Petit",
+    "role": "conducteur de travaux",
+    "deadline": "2026-10-01",
+    "priority": "Basse",
+    "status": "À faire"
+  },
+  {
+    "id": 9,
+    "projectId": 3,
+    "title": "Étude de sol et permis",
+    "responsible": "Marie Durand",
+    "role": "chef de projet",
+    "deadline": "2026-04-01",
+    "priority": "Haute",
+    "status": "En cours"
+  },
+  {
+    "id": 10,
+    "projectId": 3,
+    "title": "Plan d'exécution bureau d'études",
+    "responsible": "Paul Martin",
+    "role": "conducteur de travaux",
+    "deadline": "2026-04-15",
+    "priority": "Moyenne",
+    "status": "Bloqué"
+  },
+  {
+    "id": 11,
+    "title": "xO",
+    "responsible": "Marie Durand",
+    "role": "conducteur de travaux",
+    "deadline": "2026-05-01",
+    "priority": "Moyenne",
+    "status": "À faire",
+    "projectId": 1
+  }
+]
