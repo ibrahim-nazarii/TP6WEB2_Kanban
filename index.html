@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demo Site</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-brand">✦ Demo</div>
+    <ul class="nav-links">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" id="home">
+    <div class="hero-content">
+      <h1>Welcome to <span class="highlight">Demo Site</span></h1>
+      <p>A clean, simple starting point for your next big idea.</p>
+      <a href="#features" class="btn">Explore Features</a>
+    </div>
+    <div class="hero-visual">
+      <div class="blob"></div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features" id="features">
+    <h2 class="section-title">What's Included</h2>
+    <div class="cards">
+      <div class="card">
+        <div class="card-icon">⚡</div>
+        <h3>Fast</h3>
+        <p>Pure HTML, CSS, and JS — no frameworks, no build tools, loads instantly.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">🎨</div>
+        <h3>Stylish</h3>
+        <p>Modern design with smooth gradients, animations, and responsive layout.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon">📱</div>
+        <h3>Responsive</h3>
+        <p>Looks great on any device — desktop, tablet, or mobile.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="contact" id="contact">
+    <h2 class="section-title">Get In Touch</h2>
+    <form class="contact-form" onsubmit="handleSubmit(event)">
+      <input type="text" placeholder="Your name" required />
+      <input type="email" placeholder="Your email" required />
+      <textarea placeholder="Your message..." rows="4" required></textarea>
+      <button type="submit" class="btn">Send Message</button>
+    </form>
+    <p class="form-feedback" id="feedback"></p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2026 Demo Site · Built with ♥</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
